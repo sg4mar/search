@@ -1,0 +1,4 @@
+search
+======
+
+simple construct
